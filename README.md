@@ -1,7 +1,7 @@
 # withcd
 ### Change working directory utility compatible with "with" statement
 
-It changes the working directory while inside the "with", then it changes back to where it was originally
+Changes the working directory while inside the "with" statement, then it changes the working directory back to where it was originally.
 
 ### Usage
 ```python
