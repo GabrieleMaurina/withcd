@@ -1,4 +1,4 @@
 dist
 build
-withcd.egg-info/
+withcd.egg-info
 __pycache__
