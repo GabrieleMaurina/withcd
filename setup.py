@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
 	name='withcd',
-	version='1.0.1',
+	version='1.0.2',
 	author='Gabriele Maurina',
 	author_email='gabrielemaurina95@gmail.com',
 	description='Change working directory utility compatible with with statements',
